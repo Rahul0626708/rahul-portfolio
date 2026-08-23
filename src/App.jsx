@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import About from "./components/About";
 import Experience from "./components/Experience";
-import Journey from "./components/journey";
+import Journey from "./components/Journey";
 import Services from "./components/Services";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
